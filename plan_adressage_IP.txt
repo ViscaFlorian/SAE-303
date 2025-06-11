@@ -1,0 +1,29 @@
+Sous-réseau 1  Service informatique : 10.242.0.0/19
+
+    Adresse réseau : 10.242.0.0
+    Première adresse utilisable : 10.242.0.1
+    Dernière adresse utilisable : 10.242.31.254
+    Adresse de diffusion (broadcast) : 10.242.31.255
+
+Sous-réseau 2  Direction : 10.242.128.0/19
+
+    Adresse réseau : 10.242.128.0
+    Première adresse utilisable : 10.242.128.1
+    Dernière adresse utilisable : 10.242.159.254
+    Adresse de diffusion (broadcast) : 10.242.159.255
+
+Sous-réseau 3 Service financier : 10.242.160.0/19
+
+    Adresse réseau : 10.242.160.0
+    Première adresse utilisable : 10.242.160.1
+    Dernière adresse utilisable : 10.242.191.254
+    Adresse de diffusion (broadcast) : 10.242.191.255
+
+Sous-réseau 4 Salle des Serveurs : 10.242.192.0/19
+
+    Adresse réseau : 10.242.192.0
+    Première adresse utilisable : 10.242.192.1
+    Dernière adresse utilisable : 10.242.223.254
+    Adresse de diffusion (broadcast) : 10.242.223.255
+
+
